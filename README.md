@@ -1,3 +1,5 @@
+
+1st dataset
 --Diabetes prediction dataset reading and writing in my own content --
 
  "Using Data to Predict and Understand Diabetes"
@@ -23,4 +25,7 @@ Model Training: Selecting algorithms (such as logistic regression or random fore
 Evaluation: Measuring the model’s accuracy and improving it until it can reliably predict diabetes risk.
 The Goal: Empowering Early Intervention
 With this model, the goal is to create a system that healthcare providers can use to screen patients for diabetes risk efficiently. The earlier we can predict diabetes, the more proactive healthcare providers can be in helping patients adopt lifestyle changes or treatments to prevent or manage diabetes.
+
+
+2nd dataset
 
